@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **android application project!**
+- 🔭 I’m currently working on **Android Application Project!**
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 👯 I’m looking to collaborate on **freelancing projects.**
+- 👯 I’m looking to collaborate on **Freelancing Projects.**
 
 - 💬 Exploring **web & android**
 
