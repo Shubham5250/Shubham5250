@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Freelancing Projects.**
 
-- 💬 Exploring **web & android**
+- 💬 Exploring **web & android technologies**
 
 - 📫 Reach me on, **shubhampawar.it@gmail.com**
 
