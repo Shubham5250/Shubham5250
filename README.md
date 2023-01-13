@@ -36,3 +36,4 @@
 <br>
 
 <p>&nbsp;<h2 align="left">GitHub Stats</h2><img align="left" src="https://github-readme-stats.vercel.app/api?username=shubham5250&show_icons=true&locale=en" alt="shubham5250" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubham5250)](https://git.io/streak-stats)
