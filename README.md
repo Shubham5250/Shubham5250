@@ -17,6 +17,7 @@
 
 - 📫 Reach me on, **shubhampawar.it@gmail.com**
 
+<p align="right"> <a href="https://octodex.github.com/images/daftpunktocat-thomas.gif" target="blank"><img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhampawar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar99" height="30" width="40" /></a>
