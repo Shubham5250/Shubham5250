@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham5250" alt="shubham5250" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
+<p><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" height="300" /></p>
+
 
 - 🔭 I’m currently working on **android app project!**
 
