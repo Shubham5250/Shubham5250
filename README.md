@@ -9,9 +9,9 @@
 <p><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" height="300" /></p>
 
 
-- 🔭 I’m currently working on **android app project!**
+- 🔭 I’m currently working on **Android app project!**
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **App Development**
 
 - 👯 I’m looking to collaborate on **freelancing projects.**
 
