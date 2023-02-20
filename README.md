@@ -5,19 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham5250" alt="shubham5250" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
-<p><img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="300" height="300" /></p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on **android app project!**
 
-- 🔭 I’m currently working on **Android app project!**
+- 🌱 I’m currently learning **Android App Development**
 
-- 🌱 I’m currently learning **App Development**
-
-- 👯 I’m looking forward to collaborate on **open source projects.**
+- 👯 I’m looking to collaborate on **freelancing projects.**
 
 - 💬 Exploring **web & android**
 
 - 📫 Reach me on, **shubhampawar.it@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhampawar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar99" height="30" width="40" /></a>
