@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 👯 I’m looking forward to collaborate on **open source & projects.**
+- 👯 I’m looking forward to collaborate on **open source projects.**
 
 - 💬 Exploring **web & android**
 
