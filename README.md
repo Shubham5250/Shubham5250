@@ -7,15 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **android app project!**
+- 🔭 I’m currently working on **<a href="https://github.com/Shubham5250">Flutter Project</a>**!
 
-- 🌱 I’m currently learning **Android App Development**
+- ✅ Learning & exploring in the field of **Android Applications Development**!
 
-- 👯 I’m looking to collaborate on **freelancing projects.**
+- 🌱 I'm currently learning **Flutter** and **Dart programming language!**
 
-- 💬 Exploring **web & android**
+- 📱 I built simple and user-friendly UI Android Apps using Java & also looking forward to contribute in **_freelancing projects_** for same!
 
-- 📫 Reach me on, **shubhampawar.it@gmail.com**
+- 💻 All of projects are available on <a href="www.github.com/Shubham5250">GitHub</a>
+                                         
+- 📫 Reach me on, **shubhampawar.it@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhampawar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar99" height="30" width="40" /></a>
