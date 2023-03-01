@@ -13,7 +13,7 @@
 
 - 🌱 I'm currently learning **Flutter** and **Dart programming language!**
 
-- 📱 I built simple and user-friendly UI Android Apps using Java & also looking forward to contribute in **_freelancing projects_** for same!
+- 📱 I build simple and user-friendly UI Android Apps using Java & also looking forward to contribute in **_freelancing projects_** for same!
 
 - 💻 All of projects are available on <a href="www.github.com/Shubham5250">GitHub</a>
                                          
