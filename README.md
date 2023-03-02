@@ -15,7 +15,7 @@
 
 - 📱 I build simple and user-friendly Android UI Apps using Java & also looking forward to contribute in **_freelancing projects_** for same!
 
-- 💻 All of projects are available on <a href="[https://github.com/Shubham5250](https://github.com/Shubham5250?tab=repositories)">GitHub</a>
+- 💻 All of projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
 - 📫 Reach me on, **shubhampawar.it@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>
 <h3 align="left">Connect with me on:</h3>
