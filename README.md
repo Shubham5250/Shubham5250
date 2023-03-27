@@ -4,9 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham5250&label=Profile%20views&color=0e75b6&style=flat" alt="shubham5250" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham5250" alt="shubham5250" /></a> </p>
-
+<p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<p>
+<p align="left">
 - 🔭 I’m currently working on **<a href="https://github.com/Shubham5250/flutter-forward-extended.git">Flutter Project</a>**!
 
 - ✅ Learning & exploring in the field of **Android Applications Development**!
@@ -17,7 +18,9 @@
 
 - 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
-- 📫 Reach me on, **shubhampawar.it@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>
+- 📫 Reach me on, **shubhampawar.it@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a></p>
+  <p align="right"><a href=""><img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" height="300" width="400"/> </a></p>
+ </p>
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shubhampawar99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhampawar99" height="30" width="40" /></a>
