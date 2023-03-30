@@ -1,6 +1,4 @@
-<h1 align="center">Hi there👋, I'm Shubham🙋‍♂️</h1>
-<h3 align="center">Android App Developer📱</h3>
-
+<h1 align="center">Hi the
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubham5250&label=Profile%20views&color=0e75b6&style=flat" alt="shubham5250" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubham5250" alt="shubham5250" /></a> </p>
