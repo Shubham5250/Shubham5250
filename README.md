@@ -17,7 +17,7 @@
 
 - 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
-- 📫 Reach me on, **shubhampawar.it@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>
+- 📫 Reach me on, **shubhampaw312@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>
   
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
