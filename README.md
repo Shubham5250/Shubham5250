@@ -11,7 +11,7 @@
 
 - ✅ Learning & exploring in the field of **Android Applications Development**!
 
-- 🌱 I'm currently learning **Flutter, Firebase** and **Dart programming language!**
+- 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
 
 - 📱 I build simple and user-friendly Android Apps using Java & is also looking forward to contribute on **_freelancing projects !_** 
 
