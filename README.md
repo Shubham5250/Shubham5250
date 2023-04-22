@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right" height="300" width="300"/>
-  - 🔭 I’m currently working on <a href="https://github.com/Shubham5250/flutter-forward-extended.git">Flutter Project</a> !
+
 
 - ✅ Learning & exploring in the field of **Android Applications Development**!
 
