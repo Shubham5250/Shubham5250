@@ -9,7 +9,7 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="" align="right" height="300" width="300"/>
 
 
-- ✅ Learning & exploring in the field of **Android Application Development**!
+- ✅ Learning & exploring the field of **Android Application Development**!
 
 - 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
 
