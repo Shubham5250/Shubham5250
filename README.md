@@ -1,6 +1,6 @@
 ![logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)
 
-<h1 align="center">Hi, I'm Shubham Pawar🙋🏻‍♂️</h1>
+<h1 align="center">Hi, I'm Shubham Pawar</h1>
 
 <p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
