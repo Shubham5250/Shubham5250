@@ -8,7 +8,7 @@
 
 - ✅ Learning & exploring the field **Android Application Development**!
 
-- 🌱 I'm currently learning **Fluter, Firebase** and **Java !**
+- 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
 
 - 📱 I build simple and user-friendly Android Apps using Java & is also looking forward to contribute on **_freelancing projects !_** 
 
