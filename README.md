@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Shubham Pawar</h1>
 
 <p>
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" taret="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - ✅ Learning & exploring the field **Android Application Development**!
