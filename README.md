@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
 
-- 📱 I build simple and user-friendly Android Apps using Java & is also looking forward to contribute on **_freelancing projects !_** 
+- 📱 I build simple and user friendly Android Apps using Java & is also looking forward to contribute on **_freelancing projects !_** 
 
 - 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
