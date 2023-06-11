@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" taret="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- ✅ Learning & exploring the field **Android Application Development**!
+- ✅ Learning & exploring the field **Android Applications Development**!
 
 - 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
 
