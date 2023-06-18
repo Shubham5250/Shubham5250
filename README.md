@@ -6,11 +6,11 @@
 <p align="left"> <a href="https://twitter.com/" taret="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- ✅ Learning & exploring the field **Android Applications Development**!
+- ✅ Building **Native** and **Cross-Platform Mobile Applications!**
 
-- 🌱 I'm currently learning **Flutter, Firebase** and **Java !**
+- 🌱 ANDROID | FLUTTER | FIREBASE | MYSQL | SQLite | JAVA |
 
-- 📱 I build simple and user friendly Android Apps using Java & is also looking forward to contribute on **_freelancing projects !_** 
+- 📱 I'm looking forward to experience the **freelacing work!**
 
 - 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
