@@ -13,7 +13,7 @@
 
 - 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
-- 📫 Reach me on, **shubhampaw312@gmail.com**, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'>Twitter.</a>, <a href="https://stackoverflow.com/users/20764502/shubham-pawar">Stackoverflow</a>
+- 📫 Reach me on, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'> Twitter.</a>, <a href="https://stackoverflow.com/users/20764502/shubham-pawar"> Stackoverflow</a>
   
 - Do visit my <a href="https://shubham5250.github.io/portfolio-shubham-pawar/">Portfolio 👨‍🔧</a> website here !
   
