@@ -5,10 +5,9 @@
 <p>
 <p align="left"> <a href="https://twitter.com/" taret="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-- ✅ Building **Native** and **Cross-Platform Mobile Applications!**
-
-- 🌱 ANDROID | FLUTTER | FIREBASE | MYSQL | SQLite | JAVA |
+- Primarily focused on developing **Websites and Mobile Applications!**
+  
+- 🌱 Android SDK | ReactJS | FIREBASE | MYSQL | PHP | JAVA | MongoDB | JavaScript
 
 - 📱 I'm looking forward to experience the **freelacing work!**
 
