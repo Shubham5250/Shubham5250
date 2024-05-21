@@ -7,7 +7,7 @@
 
 - Primarily focused on developing **Websites and Mobile Applications!**
   
-- 🌱 Android SDK | ReactJS | FIREBASE | MYSQL | PHP | JAVA | MongoDB | JavaScript
+- 🌱 ReactJS | FIREBASE | MYSQL | PHP | JAVA | MongoDB | JavaScript | Android SDK
 
 - 📱 I'm looking forward to experience the **freelacing work!**
 
