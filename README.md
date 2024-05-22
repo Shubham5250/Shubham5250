@@ -1,4 +1,4 @@
-![logo](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/16320_Android_12_Blog_Header_opt_31x.gif)
+![logo](https://miro.medium.com/v2/resize:fit:1400/1*rOpGYCN1S7oWjMclmR8UEg.gif)
 
 <h1 align="center">Hi, I'm Shubham Pawar</h1>
 
@@ -7,13 +7,19 @@
 
 - Primarily focused on developing **Websites and Mobile Applications!**
   
-- 🌱 ReactJS | FIREBASE | MYSQL | PHP | JAVA | MongoDB | JavaScript | Android SDK
+- 🌱 **LANGUAGES**: JavaScript | Php | Java | Html | Node.js
 
-- 📱 I'm looking forward to experience the **freelacing work!**
+- 🚀 **Libraries / Frameworks**: React.js | Express | Android SDK
 
-- 💻 All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
+- 📱 **Databases:** MySQL, MongoDB, SQLite, Firebase Firestore
+
+- 💻 **Developer Tools:** Version Control, Git, JUnit, Apache, NGINX
+
+-  I'm looking forward to experience the **freelacing work!**
+
+-  All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
                                          
-- 📫 Reach me on, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'> Twitter.</a>, <a href="https://stackoverflow.com/users/20764502/shubham-pawar"> Stackoverflow</a>
+-  Reach me on, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'> Twitter.</a>, <a href="https://stackoverflow.com/users/20764502/shubham-pawar"> Stackoverflow</a>
   
 - Do visit my <a href="https://shubham5250.github.io/portfolio-shubham-pawar/">Portfolio 👨‍🔧</a> website here !
   
