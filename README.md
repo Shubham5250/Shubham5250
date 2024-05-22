@@ -13,7 +13,7 @@
 
 - 📱 **Databases:** MySQL, MongoDB, SQLite, Firebase Firestore
 
-- 💻 **Developer Tools:** Version Control, Git, JUnit, Apache, NGINX
+- 💻 **Developer Tools:** Version Control, Git, JUnit, Postman, Apache
 
 
 
