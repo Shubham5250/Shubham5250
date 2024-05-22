@@ -15,9 +15,9 @@
 
 - 💻 **Developer Tools:** Version Control, Git, JUnit, Apache, NGINX
 
--  I'm looking forward to experience the **freelacing work!**
 
--  All of my projects are available on <a href="https://github.com/Shubham5250?tab=repositories">GitHub</a>
+
+
                                          
 -  Reach me on, <a href='https://www.linkedin.com/in/shubhampawar99/'>LinkedIn<a/>, <a href='https://twitter.com/ShubhamPawar93'> Twitter.</a>, <a href="https://stackoverflow.com/users/20764502/shubham-pawar"> Stackoverflow</a>
   
