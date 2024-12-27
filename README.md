@@ -5,11 +5,11 @@
 <p>
 <p align="left"> <a href="https://twitter.com/" taret="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- Primarily focused on developing **Websites and Mobile Applications!**
+- Primarily focused on developing Applications!
   
-- 🌱 **LANGUAGES**: JavaScript | Php | Java | Html | Node.js
+- 🌱 **LANGUAGES**: Java | Dart | Flutter | SQL
 
-- 🚀 **Libraries / Frameworks**: React.js | Express | Android SDK
+- 🚀 **Libraries / Frameworks**: Flutter | Android SDK
 
 - 📱 **Databases:** MySQL, MongoDB, SQLite, Firebase Firestore
 
